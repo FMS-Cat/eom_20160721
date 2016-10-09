@@ -1,8 +1,10 @@
-# Everyday One Motion - 20160721 "Geometry and Cubes"
+# Everyday One Motion - 20160721  
 
-![](20160721.gif)
+"Geometry and Cubes"  
 
-PICO-8
+![](20160721.gif)  
+
+PICO-8  
 
 [Everyday One Motion](http://motions.work/motion/327)  
 [Cartridge](http://www.lexaloffle.com/bbs/?tid=3888)  
